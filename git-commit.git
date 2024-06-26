@@ -34,6 +34,8 @@
 - `git revert`: Undo a given commit by creating a reverse commit.
 - `git checkout [file]`: Restore a file to a specific commit state.
 - `git cherry-pick [commit-hash]`: Pick a specific commit to apply to the current branch.
+- `git reset --soft HEAD~1`
+- `git reset --hard HEAD~1`
 
 ### Branches
 - `git checkout [branch]`: Switch between branches.
